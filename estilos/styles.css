@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/**
+  Paleta de cores
+  Verde: #49A09D
+  lilás: #5F2C82
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#logo {
+  background-size: cover;
+}
