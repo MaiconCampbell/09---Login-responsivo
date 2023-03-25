@@ -1,13 +1,17 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
-  
+  /* Conf para tablet */
   body {
     background-image: linear-gradient(to top, #49A09D, #5F2C82);
   }
 
   section#login {
     width: 90vw;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   section#login > div.img {
@@ -16,9 +20,19 @@
     height: 100%;
   }
 
+  /* div.vidro {
+    background-color: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(5px);
+    width: 100%;
+  } */
+
   section#login > div.form {
     float: right;
     width: 55%;
+  }
+  
+  h1 {
+    padding-bottom: 20px;
   }
 }
 
@@ -37,6 +51,12 @@
     height: 100%;
   }
 
+  /* div.vidro {
+    background-color: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(5px);
+    width: 100%;
+  } */
+
   section#login > div.form {
     float: left;
     width: 50%;
@@ -47,6 +67,7 @@
   }
 
   div.form p {
-    font-size: 1.2em;
+    font-size: 1em;
+    max-width: 10px 0px;
   }
 }
