@@ -8,16 +8,13 @@
   - Entender os conceitos de Media Queries e aplicação.
 
   ## Tela exibida em PC
-  ![alt text](https://github.com/MaiconCampbell/Mobile-First/blob/main/img/tela_PC.png)
-
-  ## Tela exibida em Note
-  ![alt text](https://github.com/MaiconCampbell/Mobile-First/blob/main/img/tela_Note.png)
+  ![alt text](https://github.com/MaiconCampbell/09---Login-responsivo/blob/main/img/tela-PC.png)
 
     ## Tela exibida em Tablet
-  ![alt text](https://github.com/MaiconCampbell/Mobile-First/blob/main/img/tela_Tablet.png)
+  ![alt text](https://github.com/MaiconCampbell/09---Login-responsivo/blob/main/img/Tela-Tablet.png)
 
   ## Tela exibida em Smartphone
-  ![alt text](https://github.com/MaiconCampbell/Mobile-First/blob/main/img/tela_Smartphone.png)
+  ![alt text](https://github.com/MaiconCampbell/09---Login-responsivo/blob/main/img/Tela-Smartphone.png)
 
 
 <div>
