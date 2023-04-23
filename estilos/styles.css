@@ -46,7 +46,7 @@ section#login {
 
 section#login > div.img {
   display: block;
-  background: #5F2C82 url(../img/img.jpg) no-repeat;
+  background: #5F2C82 url(../img/bg-Note.png) no-repeat;
   background-size: cover;
   background-position: right center;
   height: 200px;

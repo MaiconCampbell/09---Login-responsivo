@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+
+@media screen and (min-width: 320px) and (max-width: 992px) {
+  section#login > div.img {
+    background: #5F2C82 url(../img/bg-Tablet.png) no-repeat;
+  }
+}
+
 @media screen and (min-width: 768px) and (max-width: 992px) {
   /* Conf para tablet */
   body {
@@ -15,6 +22,7 @@
   }
 
   section#login > div.img {
+    background: #5F2C82 url(../img/bg-Tablet.png) no-repeat;
     float: left;
     width: 45%;
     height: 100%;
@@ -24,7 +32,7 @@
     float: right;
     width: 55%;
   }
-  
+
   h1 {
     padding-bottom: 20px;
   }
