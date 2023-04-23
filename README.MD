@@ -1,4 +1,4 @@
-# Projeto Media Queries 💻
+# Projeto Login responsivo 💻
 
 - HTML
 - CSS
